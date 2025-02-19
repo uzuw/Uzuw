@@ -4,16 +4,16 @@
  > ^_^ <  I'm constantly seeking to learn new things and improve my skills in both frontend and backend development. Passionate about building dynamic, user-friendly applications and bringing ideas to life with code.
 ```
 
----
+
 
 -------------📬 Connect with Me-------------
 <p align="left" style="display: flex; align-items: center; justify-content: space-between;">
   <span>
     Feel free to reach out!<br>
-    - **Discord:** uzuw<br>
-    - **Instagram:** <a href="https://www.instagram.com/inspineapplepizza02">@inspineapplepizza02</a>
+    - **Discord:** <a href="https://discord.gg/uzuw">uzuw</a><br>
+    - **Instagram:** <a href="https://www.instagram.com/pineapplepizza02">@pineapplepizza02</a>
   </span>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNxcjFmb2NmdjVxcWp6NXdtYnJpZHEya205cGZsMnEyZXBxbjg4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150" alt="Animated Cat">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNxcjFmb2NmdjVxcWp6NXdtYnJpZHEya205cGZsMnEyZXBxbjg4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150" alt="Animated Cat" autoplay>
 </p>
 
 ---
@@ -42,9 +42,9 @@
 ---
 
 #### 🛠️ Tools & Version Control:
-<p align="left" style="display: flex; gap: 15px;">
+<p align="left" style="display: flex; gap: 15px; justify-content: space-between;">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-left: auto;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
 </p>
 
 ---
