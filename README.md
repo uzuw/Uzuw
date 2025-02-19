@@ -1,3 +1,4 @@
+```
   /\_/\  
  ( o.o )  Hi, I'm an aspiring full-stack developer! 🚀
  > ^_^ <  I'm constantly seeking to learn new things and improve my skills in both frontend and backend development. Passionate about building dynamic, user-friendly applications and bringing ideas to life with code.
