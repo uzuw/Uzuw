@@ -10,7 +10,7 @@
 <p style="display: flex; justify-content: space-between; width: 100%;">
   <span style="text-align: left;">
     Feel free to reach out!<br>
-    - Discord: <a href="https://discord.gg/uzuw">uzuw</a><br>
+    - Discord: uzuw
   </span>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNxcjFmb2NmdjVxcWp6NXdtYnJpZHEya205cGZsMnEyZXBxbjg4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150" alt="Animated Cat">
 </p>
