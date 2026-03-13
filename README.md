@@ -20,4 +20,5 @@ i love chicken and frank ocean
 ---
 [![](https://visitcount.itsvg.in/api?id=uzuw&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Snake animation](https://github.com/YOUR_USERNAME/Uzuw/blob/main/dist/github-snake.svg)
