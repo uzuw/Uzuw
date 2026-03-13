@@ -21,4 +21,4 @@ i love chicken and frank ocean
 [![](https://visitcount.itsvg.in/api?id=uzuw&icon=7&color=5)](https://visitcount.itsvg.in)
 
 
-![Snake animation](https://github.com/Uzuw/blob/main/dist/github-snake.svg)
+![Snake animation](https://github.com/Uzuw/Uzuw/blob/output/github-snake.svg)

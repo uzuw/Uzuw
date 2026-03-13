@@ -2,29 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"   # runs every day
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ checkout repository
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      # 2️⃣ generate snake
-      - name: Generate snake animation
-        uses: Platane/snk@v3.4.1
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Uzuw
           outputs: |
             dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      # 3️⃣ commit generated file
-      - name: Commit files
-        uses: EndBug/add-and-commit@v9
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          message: "Generate snake animation"
-          add: "dist/*"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
