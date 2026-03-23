@@ -18,31 +18,14 @@ i love chicken and frank ocean
 
 <h2 align="center">📊 Analysis</h2>
 
-<div align="center">
-  <table border="0" style="background: transparent;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=uzuw&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzuw&theme=transparent&layout=compact&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=uzuw&theme=rose&hide_border=true&stroke=F7C6D9&ring=F4A6C1&fire=F4A6C1&currStreakNum=FFFFFF&background=00000000" width="720" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&theme=rose&bg_color=00000000&hide_border=true&color=FFFFFF&line=F4A6C1&point=F7C6D9" width="800" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uzuw&show_icons=true&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzuw&layout=compact&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" width="300" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzuw&theme=transparent&hide_border=true&stroke=F7C6D9&ring=F4A6C1&fire=F4A6C1&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=F7C6D9" width="720" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uzuw&limit=5&theme=date_night&combine_all_yearly_contributions=true)
