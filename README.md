@@ -33,12 +33,6 @@ i love chicken and frank ocean
         <img src="https://nirzak-streak-stats.vercel.app/?user=uzuw&theme=rose&hide_border=true&stroke=F7C6D9&ring=F4A6C1&fire=F4A6C1&currStreakNum=FFFFFF&background=00000000" width="720" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&theme=rose&bg_color=00000000&hide_border=true&color=F7C6D9&line=F4A6C1&point=FFFFFF" width="800" />
-      </td>
-    </tr>
   </table>
 </div>
 
