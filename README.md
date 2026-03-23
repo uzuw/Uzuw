@@ -28,12 +28,16 @@ i love chicken and frank ocean
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uzuw&limit=5&theme=date_night&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uzuw&repo=Uzuw&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" />
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzuw&layout=compact&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" />
+</p>
 
 ## Add me @:
-<h2 align="center"><font color="#4B2E2B">🤝 Connect</font></h2>
-  
+
   <p>
     <a href="https://instagram.com/uzuw02"><img src="https://img.shields.io/badge/Instagram-4B2E2B?style=for-the-badge&logo=Instagram&logoColor=F7C6D9" /></a>
     <a href="mailto:uzuwehe@gmail.com"><img src="https://img.shields.io/badge/Email-4B2E2B?style=for-the-badge&logo=gmail&logoColor=F7C6D9" /></a>
