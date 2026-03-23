@@ -27,14 +27,9 @@ i love chicken and frank ocean
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzuw&theme=transparent&hide_border=true&stroke=F7C6D9&ring=F4A6C1&fire=F4A6C1&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=F7C6D9" width="720" />
 </p>
 
-### 🔝 Top Contributed Repo
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uzuw&repo=Uzuw&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzuw&layout=compact&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" />
-</p>
+### 🔝 Top Contributed Repo
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uzuw&repo=Uzuw&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" />
 
 ## Add me @:
 
