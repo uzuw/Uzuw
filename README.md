@@ -4,11 +4,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C6D9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Transform+-+Daniel+Caesar;Coffee+%26+Code+%E2%98%95" alt="Typing SVG" />
+
 </p>
 
 
 ## About Me:
 i love chicken and frank ocean
+
+
+
+
 
 
 # 💻 Tech Stack:
@@ -31,10 +36,16 @@ i love chicken and frank ocean
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&theme=react-dark&hide_border=true&area=true" width="820" />
 </p>
 
-### 🔝 Top Contributed Repo
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uzuw&repo=Uzuw&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" />
-  </p>
+
+
+
+<h3>probably listening to daniel caesar rn: </h3>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bh6sl3lqw5k3zh85ksdl73aqv&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&profanity=false&bar_color=f6f5f4)](https://spotify-github-profile.kittinanx.com/api/view?uid=bh6sl3lqw5k3zh85ksdl73aqv&redirect=true)
+
+</div>
 
 ## Add me @:
 
