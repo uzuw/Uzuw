@@ -18,23 +18,18 @@ i love chicken and frank ocean
 <h2 align="center">📊 Analysis</h2>
 
 <div align="center">
-  <table border="0" style="background: transparent;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=uzuw&theme=transparent&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" width="410" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzuw&theme=transparent&layout=compact&title_color=F7C6D9&text_color=FFFFFF&icon_color=F4A6C1&hide_border=true" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=uzuw&theme=rose&hide_border=true&stroke=F7C6D9&ring=F4A6C1&fire=F4A6C1&currStreakNum=FFFFFF&background=00000000" width="720" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=uzuw&theme=rose_pine&show_icons=true&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=uzuw&theme=rose_pine&layout=compact&hide_border=true" width="300" />
+  
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com/?user=uzuw&theme=rose&hide_border=true&border_radius=5" alt="GitHub Streak" width="710" />
 </div>
+
+### 🏆 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&theme=react-dark&hide_border=true&area=true" width="820" />
+</p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
