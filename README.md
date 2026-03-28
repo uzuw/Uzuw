@@ -57,4 +57,6 @@ i love chicken and frank ocean
 
 ---
 
-[Snake animation](https://github.com/Uzuw/Uzuw/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Uzuw/Uzuw/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
