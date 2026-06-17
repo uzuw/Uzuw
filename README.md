@@ -73,8 +73,7 @@
 ### git/contribution_graph 
 
 
-``A/N`` : ``i try to learn new tech everyday
-``
+``"Greatness is defined by how much you want to put into what you do." - LeBron Raymone James``
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&bg_color=F5F0E8&color=C4956A&line=7aaec8&point=D4A574&area=true&hide_border=true&area_color=B8D4E8" width="820" />
