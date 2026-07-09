@@ -1,24 +1,40 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0E8,100:EEECE8&height=200&text=Uzuw.exe&fontSize=70&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=full+stack+developer&descFontColor=555555&descSize=15&descAlignY=60" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0E8,100:EEECE8&height=200&text=.uzuwu&fontSize=70&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=Ujjwal+Rana+Magar&descFontColor=555555&descSize=15&descAlignY=60" width="100%" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=800&color=999999&center=true&vCenter=true&width=500&lines=AI+Researcher;S.W.E;rahh....." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=800&color=999999&center=true&vCenter=true&width=500&lines=AI+Researcher;S.W.E;Deep+Learning+rahh....." />
 </p>
 
 
-## about_me 😾
+### uzuw 🐱
 <br>
 
 > i love frank ocean
 
-> and bulding cool things.. too
+> and borrowing solutions from Claude ..
 
 
 
 
 
-## tech_stack 🧰
+### uzuw's tech stack 🧰
 
-**Languages**
+**Env**
+
+
+
+```text
+[ uzufetch ]
+os        → Arch Linux
+kernel    → Linux 6.16
+wm        → Hyprland
+display   → Wayland
+dot files → gatekeeping
+```
+
+
+
+
+**Languages** (probably exaggerated)
 
 ![C](https://img.shields.io/badge/C-D4A574?style=flat-square&logo=c&logoColor=3B1F0A)
 ![C++](https://img.shields.io/badge/C++-B8D4E8?style=flat-square&logo=c%2B%2B&logoColor=2a5f80)
@@ -30,7 +46,9 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-EEC4C4?style=flat-square&logo=graphql&logoColor=7a2a2a)
 ![HTML5](https://img.shields.io/badge/HTML5-F5F0E8?style=flat-square&logo=html5&logoColor=8B5E3C)
 
-**Frameworks & Tools**
+<br>
+
+**Frameworks & Tools** (probably exaggerated too)
 
 ![React](https://img.shields.io/badge/React-B8D4E8?style=flat-square&logo=react&logoColor=2a5f80)
 ![Node.js](https://img.shields.io/badge/Node.js-E8C9A0?style=flat-square&logo=node.js&logoColor=6B3F1A)
@@ -40,14 +58,18 @@
 ![JWT](https://img.shields.io/badge/JWT-F5F0E8?style=flat-square&logo=JSON%20web%20tokens&logoColor=8B5E3C)
 ![Green Sock](https://img.shields.io/badge/GSAP-D4C5B0?style=flat-square&logo=greensock&logoColor=4a3728)
 
-**Databases**
+<br>
+
+**Databases** 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-D4C5B0?style=flat-square&logo=mongodb&logoColor=4a3728)
 ![MySQL](https://img.shields.io/badge/MySQL-B8D4E8?style=flat-square&logo=mysql&logoColor=2a5f80)
 ![MariaDB](https://img.shields.io/badge/MariaDB-E8C9A0?style=flat-square&logo=mariadb&logoColor=6B3F1A)
 ![SQLite](https://img.shields.io/badge/SQLite-D4A574?style=flat-square&logo=sqlite&logoColor=3B1F0A)
 
-**Cloud & Infra**
+<br>
+
+**Cloud & Infra** (i LOVE clouds ☁️)
 
 ![AWS](https://img.shields.io/badge/AWS-F5F0E8?style=flat-square&logo=amazon-aws&logoColor=8B5E3C)
 ![Docker](https://img.shields.io/badge/Docker-B8D4E8?style=flat-square&logo=docker&logoColor=2a5f80)
@@ -57,7 +79,7 @@
 
 ---
 
-## git/stats 📊 
+### Uzuw's git stats 📊 
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=uzuw&show_icons=true&hide_border=true&count_private=true&bg_color=F5F0E8&title_color=8B5E3C&icon_color=7aaec8&text_color=6B3F1A&ring_color=D4A574" width="400" />
@@ -70,7 +92,7 @@
 
 ---
 
-### git/contribution_graph 
+### Uzuw's git contribution_graph 
 
 
 ``"Greatness is defined by how much you want to put into what you do." - LeBron Raymone James``
@@ -82,7 +104,7 @@
 
 
 ##
-## 👨‍🍳 Whats cooking?
+### 👨‍🍳 Whats cooking?
 ``probably listening to daniel caesar rn:``
 
 <div align="center">
