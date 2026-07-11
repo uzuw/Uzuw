@@ -77,18 +77,9 @@ dot files → gatekeeping
 ![Netlify](https://img.shields.io/badge/Netlify-E8C9A0?style=flat-square&logo=netlify&logoColor=6B3F1A)
 ![Heroku](https://img.shields.io/badge/Heroku-EEC4C4?style=flat-square&logo=heroku&logoColor=7a2a2a)
 
----
 
-### Uzuw's git stats 📊 
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=uzuw&show_icons=true&hide_border=true&count_private=true&bg_color=F5F0E8&title_color=8B5E3C&icon_color=7aaec8&text_color=6B3F1A&ring_color=D4A574" width="400" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=uzuw&layout=compact&hide_border=true&bg_color=EEF6FB&title_color=5a9aba&text_color=4a7a94" width="300" />
 
-  <br><br>
-
-<img src="https://streak-stats.demolab.com/?user=uzuw&hide_border=true&border_radius=12&background=F5F0E8&ring=D4A574&fire=C4956A&currStreakLabel=8B5E3C&sideLabels=7aaec8&dates=aaa&currStreakNum=8B5E3C&sideNums=7aaec8" width="710" />
-</div>
 
 ---
 
@@ -97,6 +88,10 @@ dot files → gatekeeping
 
 ``"Greatness is defined by how much you want to put into what you do." - LeBron Raymone James``
 
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=uzuw&hide_border=true&border_radius=12&background=F5F0E8&ring=D4A574&fire=C4956A&currStreakLabel=8B5E3C&sideLabels=7aaec8&dates=aaa&currStreakNum=8B5E3C&sideNums=7aaec8" width="820" />
+</div>
+<br></br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&bg_color=F5F0E8&color=C4956A&line=7aaec8&point=D4A574&area=true&hide_border=true&area_color=B8D4E8" width="820" />
 </p>
