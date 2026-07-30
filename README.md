@@ -99,13 +99,15 @@ dot files → gatekeeping
 ### 👨‍🍳 Whats cooking?
 ``probably listening to daniel caesar rn:``
 
+
+
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bh6sl3lqw5k3zh85ksdl73aqv&cover_image=true&theme=default&show_offline=true&background_color=f5f0e8&interchange=false&profanity=false&bar_color=c4956a)](https://spotify-github-profile.kittinanx.com/api/view?uid=bh6sl3lqw5k3zh85ksdl73aqv&redirect=true)
+![Spotify](https://caesar-git.vercel.app/api/card?t=1)
 
 </div>
 
----
+
 
 ## 🫧 You can find me @
 
