@@ -88,9 +88,6 @@ dot files → gatekeeping
 
 ``"Greatness is defined by how much you want to put into what you do." - LeBron Raymone James``
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=uzuw&hide_border=true&border_radius=12&background=F5F0E8&ring=D4A574&fire=C4956A&currStreakLabel=8B5E3C&sideLabels=7aaec8&dates=aaa&currStreakNum=8B5E3C&sideNums=7aaec8" width="820" />
-</div>
 <br></br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&bg_color=F5F0E8&color=C4956A&line=7aaec8&point=D4A574&area=true&hide_border=true&area_color=B8D4E8" width="820" />
