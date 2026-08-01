@@ -103,7 +103,7 @@ dot files → gatekeeping
 
 <div align="center">
 
-![Spotify](https://caesar-git.vercel.app/api/card?t=3)
+![Spotify](https://caesar-git.vercel.app/api/card?t=4)
 
 </div>
 
