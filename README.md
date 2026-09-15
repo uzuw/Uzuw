@@ -16,7 +16,7 @@
 
 
 
-### uzuw's tech stack 🧰
+### uzuw's dev env
 
 **Env**
 
@@ -34,7 +34,7 @@ dot files → gatekeeping
 
 
 
-**Languages** (probably exaggerated)
+**Languages** 
 
 ![C](https://img.shields.io/badge/C-D4A574?style=flat-square&logo=c&logoColor=3B1F0A)
 ![C++](https://img.shields.io/badge/C++-B8D4E8?style=flat-square&logo=c%2B%2B&logoColor=2a5f80)
@@ -48,7 +48,7 @@ dot files → gatekeeping
 
 <br>
 
-**Frameworks & Tools** (probably exaggerated too)
+**Frameworks & Tools** 
 
 ![React](https://img.shields.io/badge/React-B8D4E8?style=flat-square&logo=react&logoColor=2a5f80)
 ![Node.js](https://img.shields.io/badge/Node.js-E8C9A0?style=flat-square&logo=node.js&logoColor=6B3F1A)
@@ -77,21 +77,6 @@ dot files → gatekeeping
 ![Netlify](https://img.shields.io/badge/Netlify-E8C9A0?style=flat-square&logo=netlify&logoColor=6B3F1A)
 ![Heroku](https://img.shields.io/badge/Heroku-EEC4C4?style=flat-square&logo=heroku&logoColor=7a2a2a)
 
-
-
-
-
----
-
-### Uzuw's git contribution_graph 
-
-
-``"Greatness is defined by how much you want to put into what you do." - LeBron Raymone James``
-
-<br></br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzuw&bg_color=F5F0E8&color=C4956A&line=7aaec8&point=D4A574&area=true&hide_border=true&area_color=B8D4E8" width="820" />
-</p>
 
 
 
