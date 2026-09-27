@@ -86,12 +86,6 @@ dot files → gatekeeping
 
 
 
-<div align="center">
-
-![Spotify](https://caesar-git.vercel.app/api/card?t=4)
-
-</div>
-
 
 
 ## 🫧 You can find me @
