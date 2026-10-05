@@ -1,107 +1,29 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0E8,100:EEECE8&height=200&text=.uzuwu&fontSize=70&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=Ujjwal+Rana+Magar&descFontColor=555555&descSize=15&descAlignY=60" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0E8,100:EEECE8&height=200&text=Uzuw&fontSize=70&fontColor=1A1A1A&animation=fadeIn&fontAlignY=38&desc=Ujjwal+Rana+Magar&descFontColor=555555&descSize=15&descAlignY=60" width="100%" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=800&color=999999&center=true&vCenter=true&width=500&lines=S.W.E;Developer;Deep+Learning+rahh....." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=800&color=999999&center=true&vCenter=true&width=500&lines=S.W.E;Developer;deeplearning;...." />
 </p>
 
 
-### uzuw 🐱
-<br>
+uzu
 
-> i love frank ocean
+pokhara. student. up to date with everything.
 
-> and borrowing solutions from Claude ..
+top 10 uzu facts:
+1. loves frank ocean
+2. loves chicken
+3. thinks
+4. builds
+5. repeats
 
+claude wrote this readme. it was very sorry about it.
+then it rewrote it. then it apologized again.
 
-
-
-
-### uzuw's dev env
-
-**Env**
-
-
-
-```text
-[ uzufetch ]
-os        → Arch Linux
-kernel    → Linux 6.16
-wm        → Hyprland
-display   → Wayland
-dot files → gatekeeping
-```
-
-
-
-
-**Languages** 
-
-![C](https://img.shields.io/badge/C-D4A574?style=flat-square&logo=c&logoColor=3B1F0A)
-![C++](https://img.shields.io/badge/C++-B8D4E8?style=flat-square&logo=c%2B%2B&logoColor=2a5f80)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5F0E8?style=flat-square&logo=javascript&logoColor=8B5E3C)
-![TypeScript](https://img.shields.io/badge/TypeScript-E8D5C4?style=flat-square&logo=typescript&logoColor=6B3F1A)
-![Python](https://img.shields.io/badge/Python-D4A574?style=flat-square&logo=python&logoColor=3B1F0A)
-![PHP](https://img.shields.io/badge/PHP-B8D4E8?style=flat-square&logo=php&logoColor=2a5f80)
-![Java](https://img.shields.io/badge/Java-E8C9A0?style=flat-square&logo=openjdk&logoColor=6B3F1A)
-![GraphQL](https://img.shields.io/badge/GraphQL-EEC4C4?style=flat-square&logo=graphql&logoColor=7a2a2a)
-![HTML5](https://img.shields.io/badge/HTML5-F5F0E8?style=flat-square&logo=html5&logoColor=8B5E3C)
-
-<br>
-
-**Frameworks & Tools** 
-
-![React](https://img.shields.io/badge/React-B8D4E8?style=flat-square&logo=react&logoColor=2a5f80)
-![Node.js](https://img.shields.io/badge/Node.js-E8C9A0?style=flat-square&logo=node.js&logoColor=6B3F1A)
-![Django](https://img.shields.io/badge/Django-D4C5B0?style=flat-square&logo=django&logoColor=4a3728)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-B8D4E8?style=flat-square&logo=tailwind-css&logoColor=2a5f80)
-![Vite](https://img.shields.io/badge/Vite-E8D5C4?style=flat-square&logo=vite&logoColor=6B3F1A)
-![JWT](https://img.shields.io/badge/JWT-F5F0E8?style=flat-square&logo=JSON%20web%20tokens&logoColor=8B5E3C)
-![Green Sock](https://img.shields.io/badge/GSAP-D4C5B0?style=flat-square&logo=greensock&logoColor=4a3728)
-
-<br>
-
-**Databases** 
-
-![MongoDB](https://img.shields.io/badge/MongoDB-D4C5B0?style=flat-square&logo=mongodb&logoColor=4a3728)
-![MySQL](https://img.shields.io/badge/MySQL-B8D4E8?style=flat-square&logo=mysql&logoColor=2a5f80)
-![MariaDB](https://img.shields.io/badge/MariaDB-E8C9A0?style=flat-square&logo=mariadb&logoColor=6B3F1A)
-![SQLite](https://img.shields.io/badge/SQLite-D4A574?style=flat-square&logo=sqlite&logoColor=3B1F0A)
-
-<br>
-
-**Cloud & Infra** (i LOVE clouds ☁️)
-
-![AWS](https://img.shields.io/badge/AWS-F5F0E8?style=flat-square&logo=amazon-aws&logoColor=8B5E3C)
-![Docker](https://img.shields.io/badge/Docker-B8D4E8?style=flat-square&logo=docker&logoColor=2a5f80)
-![Vercel](https://img.shields.io/badge/Vercel-D4A574?style=flat-square&logo=vercel&logoColor=3B1F0A)
-![Netlify](https://img.shields.io/badge/Netlify-E8C9A0?style=flat-square&logo=netlify&logoColor=6B3F1A)
-![Heroku](https://img.shields.io/badge/Heroku-EEC4C4?style=flat-square&logo=heroku&logoColor=7a2a2a)
-
-
-
-
-##
-### 👨‍🍳 Whats cooking?
-``probably listening to daniel caesar rn:``
-
-
-
-
-
-## 🫧 You can find me @
+![uzuw's GitHub Stats](https://www.githubstats.tech/api/card?username=uzuw&theme=buefy&size=default&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=1&show_top_repo=1)
+## Find me @
 
 <p>
   <a href="https://instagram.com/uzuw02"><img src="https://img.shields.io/badge/Instagram-EEC4C4?style=for-the-badge&logo=Instagram&logoColor=7a2a2a" /></a>
   <a href="mailto:uzuwehe@gmail.com"><img src="https://img.shields.io/badge/Email-F5F0E8?style=for-the-badge&logo=gmail&logoColor=8B5E3C" /></a>
-  <a href="https://twitch.tv/uzuw02"><img src="https://img.shields.io/badge/Twitch-B8D4E8?style=for-the-badge&logo=Twitch&logoColor=2a5f80" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Uzuw/Uzuw/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0E8,50:E8C9A0,75:D4A574,100:B8D4E8&height=130&section=footer&reversal=true" />
-</p>
